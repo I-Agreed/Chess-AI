@@ -1,3 +1,3 @@
 # Chess-AI
-An AI that plays chess\n
+An AI that plays chess.
 Warning: kinda sucks
