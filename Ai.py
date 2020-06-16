@@ -3,7 +3,7 @@ class Ai:
     def __init__(self,board):
         self.board = board
         self.colour = "black"
-        self.rec = 3
+        self.rec = 1
     
     def evalScore(self,board=None):
         if board == None:
